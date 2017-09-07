@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Vader3334/samford-demo/issues"
   },
-  "homepage": "https://github.com/Vader3334/samford-demo#readme"
+  "homepage": "https://github.com/Vader3334/samford-demo#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
